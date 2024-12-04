@@ -1,1 +1,1 @@
-This repository manages mainifest files for Kubernetes cluster.
+### This repository manages mainifest files for Kubernetes cluster with ArgoCD.
